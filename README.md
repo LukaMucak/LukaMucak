@@ -2,17 +2,16 @@ M
 
 
 https://github.com/user-attachments/assets/38c6e343-ea57-4f3d-bfcf-f719ba6db3ed
-
-## Hi there 👋
+hEi
 
 <!--
-**LukaMucak/LukaMucak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LukaMucak/ide@gent.uli.com.i.iza.ugla.koogla.zemaljska.y.sveje.dobroje.** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...tnt
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
